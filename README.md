@@ -13,7 +13,6 @@ L1---Sentiment Analysis---[DataAnalytics-L1-SentimentAnalysis](DataAnalytics-L1-
 L2--- Predicting House Prices---[DataAnalytics-L2-HousePricing](DataAnalytics-L2-HousePricing) |
 L2--- Wine Quality Prediction---[DataAnalytics-L2-WineQuality](DataAnalytics-L2-WineQuality) |
 L2--- Fraud Detection---[DataAnalytics-L2-FraudDetection](DataAnalytics-L2-FraudDetection) |
-L2---Google Play Store Analysis---[DataAnalytics-L2-GooglePlayStore](DataAnalytics-L2-GooglePlayStore) |
-| L2 | Autocomplete/Autocorrect Analytics---[DataAnalytics-L2-AutocompleteAutocorrect](./DataAnalytics-L2-AutocompleteAutocorrect) |
+L2---Google Play Store Analysis---[DataAnalytics-L2-GooglePlayStore](DataAnalytics-L2-GooglePlayStore)|
 
 Each folder contains the source code, a task-specific README, and output charts/screenshots.
