@@ -4,8 +4,9 @@
 **Deliverable folder:** `OIBSIP/DataAnalytics-L2-WineQuality/`
 
 ## Objective
-See the corresponding Task Card in the OIBSIP SIP Task List for the full
-objective, tech stack, and feature checklist this project satisfies.
+Train and compare multiple classification models to predict the quality score of wine (typically a scale of 3-8) based on its physicochemical properties such as acidity, density, and alcohol content.
+## Tech Stack
+Python, pandas, numpy, sckit-learn (Random Forest, SGD,SVC). seaborn,matplotlib,Jupyter Notebook
 
 ## What's in this folder
 - `WineQuality.py` — full pipeline: data loading, EDA, analysis, and
