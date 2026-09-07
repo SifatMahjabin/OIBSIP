@@ -11,7 +11,7 @@ L1---Customer Segmentation Analysis---[DataAnalytics-L1-CustomerSegmentation](Da
 L1--- Data Cleaning---[DataAnalytics-L1-DataCleaning](DataAnalytics-L1-DataCleaning) |
 L1---Sentiment Analysis---[DataAnalytics-L1-SentimentAnalysis](DataAnalytics-L1-SentimentAnalysis) |
 L2--- Predicting House Prices---[DataAnalytics-L2-HousePricing](DataAnalytics-L2-HousePricing) |
-L2--- Wine Quality Prediction---[DataAnalytics-L2-WineQualityPrediction](./DataAnalytics-L2-WineQualityPrediction) |
+L2--- Wine Quality Prediction---[DataAnalytics-L2-WineQuality](DataAnalytics-L2-WineQuality) |
 L2--- Fraud Detection---[DataAnalytics-L2-FraudDetection](DataAnalytics-L2-FraudDetection) |
 L2---Google Play Store Analysis---[DataAnalytics-L2-GooglePlayStore](DataAnalytics-L2-GooglePlayStore) |
 | L2 | Autocomplete/Autocorrect Analytics---[DataAnalytics-L2-AutocompleteAutocorrect](./DataAnalytics-L2-AutocompleteAutocorrect) |
