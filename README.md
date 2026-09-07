@@ -6,7 +6,7 @@
 
 Level--- Task --- Folder 
 
-L1--- EDA on Retail Sales Data---[DataAnalytics-L1-EDARetailSales](./DataAnalytics-L1-EDARetailSales) |
+L1--- EDA on Retail Sales Data---[DataAnalytics-L1-EDARetailSales](DataAnalytics-L1-EDARetailSales) |
 L1---Customer Segmentation Analysis---[DataAnalytics-L1-CustomerSegmentation](DataAnalytics-L1-CustomerSegmentation) |
 L1--- Data Cleaning---[DataAnalytics-L1-DataCleaning](DataAnalytics-L1-DataCleaning) |
 L1---Sentiment Analysis---[DataAnalytics-L1-SentimentAnalysis](./DataAnalytics-L1-SentimentAnalysis) |
