@@ -15,4 +15,4 @@ L2--- Wine Quality Prediction---[DataAnalytics-L2-WineQuality](DataAnalytics-L2-
 L2--- Fraud Detection---[DataAnalytics-L2-FraudDetection](DataAnalytics-L2-FraudDetection) |
 L2---Google Play Store Analysis---[DataAnalytics-L2-GooglePlayStore](DataAnalytics-L2-GooglePlayStore)|
 
-Each folder contains the source code, a task-specific README, and output charts/screenshots.
+Each folder contains the source code, a task-specific README, and output charts.
